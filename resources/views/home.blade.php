@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                 <h1>To-Do-App</h1>   
+                 <h1>To-Do-List-App</h1>   
                     <hr>
                 <span class='py-2'>Login in to start creating tasks</span>
                 </div>
